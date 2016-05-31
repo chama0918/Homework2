@@ -1,2 +1,2 @@
 # Homework2
-![GitHub Logo](/agu.png/)
+![GitHub Logo](/images/agu.png)
