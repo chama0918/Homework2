@@ -1,2 +1,2 @@
 # Homework2
-![GitHub Logo](/images/agu.png)
+![yuki](http://www.fastpic.jp/viewer.php?file=4569502089.png)
