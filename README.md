@@ -1,2 +1,2 @@
 # Homework2
-Format: ![Alt Text](http://www.fastpic.jp/viewer.php?file=4569502089.png)
+![agu](https://github.com/chama0918/Homework2/blob/master/agu.png?raw=true)
